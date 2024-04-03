@@ -1,0 +1,204 @@
+{
+  "Muebles": [
+    {
+      "_id": 1,
+      "_tipo": "Armario",
+      "_nombre": "Clásico Elegante",
+      "_descripcion": "Un armario de estilo clásico con detalles de molduras y acabado en nogal",
+      "_material": "Madera",
+      "_dimensiones": "180 cm de ancho x 220 cm de alto x 60 cm de profundidad",
+      "_precio": 1000,
+      "_cantidad": 3
+    },
+    {
+      "_id": 2,
+      "_tipo": "Armario",
+      "_nombre": "Moderno y Funcional",
+      "_descripcion": "Un armario moderno con líneas limpias y acabado mate, diseñado para optimizar el espacio",
+      "_material": "Madera",
+      "_dimensiones": "50 cm de ancho x 200 cm de alto x 50 cm de profundidad",
+      "_precio": 400,
+      "_cantidad": 2
+    },
+    {
+      "_id": 3,
+      "_tipo": "Armario",
+      "_nombre": "Estilo Industrial",
+      "_descripcion": "Un armario robusto con estructura de metal negro y paneles de madera reciclada.",
+      "_material": "Metal",
+      "_dimensiones": "160 cm de ancho x 210 cm de alto x 55 cm de profundidad",
+      "_precio": 800,
+      "_cantidad": 4
+    },
+    {
+      "_id": 4,
+      "_tipo": "Armario",
+      "_nombre": "Minimalista y Funcional",
+      "_descripcion": "Un armario minimalista con diseño modular y acabado en blanco mate.",
+      "_material": "Madera",
+      "_dimensiones": "200 cm de ancho x 230 cm de alto x 60 cm de profundidad",
+      "_precio": 600,
+      "_cantidad": 3
+    },
+    {
+      "_id": 5,
+      "_tipo": "Armario",
+      "_nombre": "Rústico y Acogedor",
+      "_descripcion": "Un armario rústico con detalles de madera envejecida y tiradores de hierro forjado.",
+      "_material": "Madera",
+      "_dimensiones": "180 cm de ancho x 220 cm de alto x 65 cm de profundidad.",
+      "_precio": 900,
+      "_cantidad": 5
+    },
+    {
+      "_id": 6,
+      "_tipo": "Comoda",
+      "_nombre": "Moderna Minimalista",
+      "_descripcion": "Una cómoda elegante y minimalista con líneas limpias y acabado brillante.",
+      "_material": "Madera",
+      "_dimensiones": "120 cm de ancho x 80 cm de alto x 45 cm de profundidad",
+      "_precio": 300,
+      "_cantidad": 4
+    },
+    {
+      "_id": 7,
+      "_tipo": "Comoda",
+      "_nombre": "Vintage Chic",
+      "_descripcion": "Una cómoda vintage con encanto, detalles tallados a mano y patas torneadas.",
+      "_material": "Madera",
+      "_dimensiones": "100 cm de ancho x 90 cm de alto x 50 cm de profundidad",
+      "_precio": 250,
+      "_cantidad": 6
+    },
+    {
+      "_id": 8,
+      "_tipo": "Comoda",
+      "_nombre": "Industrial Loft",
+      "_descripcion": "Una cómoda robusta y urbana inspirada en el estilo industrial, con detalles de metal negro y acabado envejecido.",
+      "_material": "Metal",
+      "_dimensiones": "140 cm de ancho x 100 cm de alto x 60 cm de profundidad",
+      "_precio": 500,
+      "_cantidad": 5
+    },
+    {
+      "_id": 9,
+      "_tipo": "Comoda",
+      "_nombre": "Rústica Rural",
+      "_descripcion": "Una cómoda rústica con un acabado desgastado, perfecta para un ambiente campestre.",
+      "_material": "Madera",
+      "_dimensiones": "130 cm de ancho x 85 cm de alto x 55 cm de profundidad",
+      "_precio": 200,
+      "_cantidad": 7
+    },
+    {
+      "_id": 10,
+      "_tipo": "Comoda",
+      "_nombre": "Contemporánea de Lujo",
+      "_descripcion": "Una cómoda lujosa con un diseño contemporáneo, líneas geométricas y acabado lacado.",
+      "_material": "Acero",
+      "_dimensiones": "160 cm de ancho x 110 cm de alto x 50 cm de profundidad",
+      "_precio": 1000,
+      "_cantidad": 8
+    },
+    {
+      "_id": 11,
+      "_tipo": "Mesa",
+      "_nombre": "Elegancia Clásica",
+      "_descripcion": "Una mesa de comedor con un diseño clásico y elegante, perfecta para reuniones formales.",
+      "_material": "Madera",
+      "_dimensiones": "180 cm de largo x 90 cm de ancho x 75 cm de alto",
+      "_precio": 800,
+      "_cantidad": 4
+    },
+    {
+      "_id": 12,
+      "_tipo": "Mesa",
+      "_nombre": "Minimalista Moderna",
+      "_descripcion": "Una mesa de centro de estilo minimalista con líneas limpias y un acabado en negro mate.",
+      "_material": "Vidrio",
+      "_dimensiones": "120 cm de largo x 60 cm de ancho x 45 cm de alto",
+      "_precio": 300,
+      "_cantidad": 28
+    },
+    {
+      "_id": 13,
+      "_tipo": "Mesa",
+      "_nombre": "Estilo Industrial",
+      "_descripcion": "Una mesa auxiliar inspirada en el estilo industrial, con patas de metal y un tablero de madera envejecida.",
+      "_material": "Metal",
+      "_dimensiones": "60 cm de diámetro x 55 cm de alto",
+      "_precio": 150,
+      "_cantidad": 29
+    },
+    {
+      "_id": 14,
+      "_tipo": "Mesa",
+      "_nombre": "Funcionalidad Moderna",
+      "_descripcion": "Una mesa de estudio con un diseño moderno y funcional, equipada con estantes de almacenamiento integrados.",
+      "_material": "Madera",
+      "_dimensiones": "120 cm de largo x 60 cm de ancho x 75 cm de alto",
+      "_precio": 200,
+      "_cantidad": 7
+    },
+    {
+      "_id": 15,
+      "_tipo": "Mesa",
+      "_nombre": "Rústica Al Aire Libre",
+      "_descripcion": "Una mesa de jardín resistente a la intemperie, con un diseño rústico y acabado envejecido.",
+      "_material": "Madera",
+      "_dimensiones": "150 cm de largo x 90 cm de ancho x 75 cm de alto",
+      "_precio": 500,
+      "_cantidad": 75
+    },
+    {
+      "_id": 16,
+      "_tipo": "Silla",
+      "_nombre": "Ergonómica Comfort",
+      "_descripcion": "Una silla diseñada para proporcionar comodidad durante largas horas de trabajo o estudio, con soporte lumbar ajustable y acolchado ergonómico.",
+      "_material": "Malla",
+      "_dimensiones": "60 cm de ancho x 90 cm de alto x 50 cm de profundidad",
+      "_precio": 150,
+      "_cantidad": 42
+    },
+    {
+      "_id": 17,
+      "_tipo": "Silla",
+      "_nombre": "Vintage Retro",
+      "_descripcion": "Una silla de estilo retro inspirada en los diseños de mediados del siglo XX, con tapizado de cuero sintético y patas de madera de haya.",
+      "_material": "Cuero sintético",
+      "_dimensiones": "55 cm de ancho x 80 cm de alto x 50 cm de profundidad",
+      "_precio": 100,
+      "_cantidad": 19
+    },
+    {
+      "_id": 18,
+      "_tipo": "Silla",
+      "_nombre": "Minimalista Moderna",
+      "_descripcion": "Una silla con líneas limpias y diseño minimalista, perfecta para espacios contemporáneos, con estructura de metal y asiento de plástico moldeado.",
+      "_material": "Metal",
+      "_dimensiones": "45 cm de ancho x 85 cm de alto x 50 cm de profundidad",
+      "_precio": 50,
+      "_cantidad": 20
+    },
+    {
+      "_id": 19,
+      "_tipo": "Silla",
+      "_nombre": "Campestre Acogedora",
+      "_descripcion": "Una silla con encanto rural, ideal para ambientes acogedores, con respaldo de mimbre tejido a mano y estructura de madera de roble.",
+      "_material": "Mimbre",
+      "_dimensiones": "50 cm de ancho x 95 cm de alto x 45 cm de profundidad",
+      "_precio": 80,
+      "_cantidad": 8
+    },
+    {
+      "_id": 20,
+      "_tipo": "Silla",
+      "_nombre": "Industrial Vintage",
+      "_descripcion": "Una silla robusta con un toque industrial, con estructura de metal envejecido y asiento de madera maciza reciclada.",
+      "_material": "Metal",
+      "_dimensiones": "40 cm de ancho x 85 cm de alto x 40 cm de profundidad",
+      "_precio": 80,
+      "_cantidad": 60
+    }
+  ]
+}
